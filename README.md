@@ -38,7 +38,7 @@ User Input
 
 The project uses **pre-trained AI/ML models for perception** and combines their outputs with rule-based decision logic to perform system actions.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Python**
 * **OpenCV** – image/video processing
