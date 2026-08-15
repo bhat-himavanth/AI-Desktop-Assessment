@@ -1,0 +1,35 @@
+## Voice Assistant
+
+Microphone
+→ SpeechRecognition
+→ Text
+→ Command matching
+→ Function
+→ Action
+
+## Virtual Mouse
+
+Camera
+→ OpenCV
+→ MediaPipe Hands
+→ 21 landmarks
+→ Index finger coordinates
+→ Screen coordinates
+→ PyAutoGUI
+
+## Eye Mouse
+
+Camera
+→ OpenCV
+→ MediaPipe Face Mesh
+→ Eye landmarks
+→ Blink detection
+→ PyAutoGUI click
+
+## Volume Control
+
+Camera
+→ MediaPipe Hands
+→ Thumb/index position
+→ Gesture
+→ Volume key

@@ -1,0 +1,38 @@
+Keep explanations of:
+
+Artificial Intelligence
+Machine Learning
+Inference
+Pre-trained model
+Computer Vision
+CNN
+Landmark detection
+Speech recognition
+NLP
+Gesture recognition
+Rule-based decision making
+Real-time inference
+Multithreading
+Human-Computer Interaction
+
+What is actually AI?
+What is ML?
+What is OpenCV?
+What is MediaPipe?
+What is your own logic?
+What is an API?
+
+For eg.,
+MediaPipe
+    ↓
+Pre-trained ML model
+    ↓
+Landmark detection
+    ↓
+My Python logic
+    ↓
+Gesture interpretation
+    ↓
+PyAutoGUI
+    ↓
+System action

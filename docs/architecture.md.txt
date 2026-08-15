@@ -1,0 +1,19 @@
+User
+ ↓
+Input Layer
+ ├── Voice
+ ├── Hand
+ └── Eye
+ ↓
+AI Perception
+ ├── Speech Recognition
+ ├── MediaPipe Hands
+ └── MediaPipe Face Mesh
+ ↓
+Decision Layer
+ ↓
+Action Layer
+ ├── OS
+ ├── Mouse
+ ├── Volume
+ └── APIs
