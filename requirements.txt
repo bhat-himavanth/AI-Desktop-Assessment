@@ -1,0 +1,12 @@
+opencv-python
+mediapipe
+pyautogui
+pyttsx3
+SpeechRecognition
+keyboard
+IMDbPY
+wikipedia
+pywhatkit
+wolframalpha
+python-decouple
+requests
